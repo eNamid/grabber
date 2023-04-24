@@ -1,0 +1,22 @@
+{
+  "name": "first-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "service.js",
+  "scripts": {
+    "start": "grabber.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eNamid/first-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eNamid/first-app/issues"
+  },
+  "homepage": "https://github.com/eNamid/first-app#readme",
+  "dependencies": {
+    "mysql2": "^3.2.0"
+  }
+}
